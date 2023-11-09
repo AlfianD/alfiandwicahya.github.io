@@ -7,9 +7,15 @@
 #hobbies {
   background-color: #e1f6fa;
 }
-#contact {
+#gallery {
   background-color: #d0deee;
   border: none;
+}
+.gallery-img {
+  width: 100;
+}
+#gallery .row > * {
+  padding: 0;
 }
 section {
   padding-top: 5rem;
