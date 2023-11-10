@@ -1,15 +1,25 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #9ff3e8;
+  background-color: #645743;
   background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
+  color: #fff;
+  outline: none;
 }
 
 #hobbies {
-  background-color: #e1f6fa;
+  background-color: #c79d5f;
+  outline: none;
 }
+
+#projects {
+  background-color: #ececec;
+  outline: none;
+}
+
 #gallery {
-  background-color: #d0deee;
-  border: none;
+  background-color: #96775f;
+  outline: none;
+  border-style: none !important;
 }
 .gallery-img {
   width: 100;
@@ -17,6 +27,28 @@
 #gallery .row > * {
   padding: 0;
 }
+#contact {
+  background-color: #ad927b;
+  outline: none;
+}
+
+#contact .contact {
+  color: white;
+}
+footer {
+  background-color: #643a13;
+  text-align: center;
+  padding: 1rem 0;
+  margin: 0 0;
+  outline: none;
+}
+
+footer .credit a {
+  color: var(--bg);
+  font-weight: 600;
+  text-decoration: none;
+}
+
 section {
   padding-top: 5rem;
 }
