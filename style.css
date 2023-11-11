@@ -9,6 +9,10 @@
 #hobbies {
   background-color: #c79d5f;
   outline: none;
+  color: #fff;
+}
+#hobbies .football {
+  fill: #fff;
 }
 
 #projects {
@@ -18,6 +22,7 @@
 
 #gallery {
   background-color: #96775f;
+  color: #fff;
   outline: none;
   border-style: none !important;
 }
@@ -30,11 +35,20 @@
 #contact {
   background-color: #ad927b;
   outline: none;
+  color: #fff;
 }
 
 #contact .contact {
   color: white;
 }
+footer .sosials {
+  padding: 1rem 0;
+}
+footer .sosials a {
+  color: #fff;
+  margin: 1rem;
+}
+
 footer {
   background-color: #643a13;
   text-align: center;
