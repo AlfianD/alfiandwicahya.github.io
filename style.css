@@ -24,7 +24,7 @@
   background-color: #96775f;
   color: #fff;
   outline: none;
-  border-style: none !important;
+  border-style: none;
 }
 .gallery-img {
   width: 100;
